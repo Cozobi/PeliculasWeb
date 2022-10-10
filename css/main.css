@@ -17,7 +17,9 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(var(--body-bg), #811a1a);
+    background: url(/images/Login.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .login-box {
@@ -27,7 +29,7 @@ body {
     width: 400px;
     padding: 40px;
     transform: translate(-50%, -50%);
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, .95);
     box-sizing: border-box;
     box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
     border-radius: 10px;
