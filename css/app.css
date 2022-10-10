@@ -400,7 +400,7 @@ a.movie-item:hover {
 }
 
 .section-header {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     padding-left: 20px;
     text-transform: uppercase;
     font-size: 1.5rem;
@@ -495,6 +495,10 @@ footer a.logo:hover {
     border-radius: 50%;
     background-color: var(--text-color);
     color: var(--main-color);
+}
+div .content{
+    padding-top: 2rem;
+    padding-left: 2rem;
 }
 
 .social-item:hover {
